@@ -1,0 +1,10 @@
+
+db.local.txt
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+.env
+.env.*
